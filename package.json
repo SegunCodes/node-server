@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "This is a task manager project",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SegunCodes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
